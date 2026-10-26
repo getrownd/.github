@@ -1,4 +1,7 @@
-![Rownd: savings circles, in an app. Kemi and friends, four Rownd faces.](./rownd-banner.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./rownd-banner.svg">
+  <img alt="Rownd: savings circles, in an app. Kemi and friends, four Rownd faces." src="./rownd-banner-light.svg">
+</picture>
 
 # Rownd
 
